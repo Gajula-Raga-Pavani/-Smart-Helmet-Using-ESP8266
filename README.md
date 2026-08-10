@@ -157,16 +157,6 @@ The Smart Helmet system successfully detects helmet usage and alcohol consumptio
 
 ---
 
-## Author
-
-**Pasham Malathi**
-
-B.Tech – Electronics and Communication Engineering (ECE)
-
-Geethanjali College of Engineering & Technology
-
----
-
 ## License
 
 This project is created for educational and academic purposes.
